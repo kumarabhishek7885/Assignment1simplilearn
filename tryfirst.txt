@@ -1,0 +1,3 @@
+This is my first trail in GIT
+I am happy to see you here
+lets learn GIT 
