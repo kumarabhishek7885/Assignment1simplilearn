@@ -1,3 +1,5 @@
 This is my first trail in GIT
 I am happy to see you here
 lets learn GIT 
+What is Git?
+GIT works on the concept of source code management (SCM) and developed by linus Torvalds.
